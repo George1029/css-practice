@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+}
+.firstC{
+  color: red;
+}
+.secondC{
+  color: blue;
+}
+.thirdC{
+  color: green;
+}
+
+
+.firstfont{
+  font-size: 30px;
+}
+.secondfont{
+  font-size: 10px;
+}
+
+.ouu{
+  text-align: center;
+}
+
+.bBold{
+  font-weight: bold;
+}
+
+.SWITCH{
+  font-style: oblique;
+}
+.multipleatt{
+  color: orange;
+  font-weight: bold;
+  font-size: 30px;
+}
+.styledFont{
+  color: blue;
+  font-size: 18px;
+  font-style: italic;
+}
+
+#styledImage{
+  width: 127px;
+  border: 13px solid green;
+ }
